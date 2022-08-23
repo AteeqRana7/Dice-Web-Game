@@ -1,0 +1,2 @@
+# Dice-Web-Game
+This is a dice game, most commonly known as the "Pig Game". In which there are two players, a player will be able to roll a dice and get an outcome (1-6), if the result is not 1, the score keeps adding up, the player has the option to hold his current score, so it adds up to the total score, however if player gets 1, the current score goes back to 0, and the other player gets to play. The player who gets to 100 total score first, wins the game. The players also can start a new game.
